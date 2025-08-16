@@ -1,0 +1,11 @@
+scikit-learn==0.24.1
+pandas
+pefile==2019.4.18
+joblib==1.0.1
+matplotlib
+pyfiglet
+numpy==1.20.3
+
+Flask==2.3.2
+gunicorn==21.2.0
+Werkzeug==2.3.6
